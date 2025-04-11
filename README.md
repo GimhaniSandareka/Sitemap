@@ -1,2 +1,2 @@
 # Sitemap
-Visual sitemap done using  HTML, CSS, JavaScript, and SVG to represent website structure in a clean, interactive format.
+This project is a visual representation of a website's structure, built using HTML, CSS, JavaScript, and SVG. The sitemap displays the hierarchy of web pages in an interactive and organized format. SVG is used to draw nodes and connectors, making it easy to understand the parent-child relationships between pages. JavaScript handles the dynamic rendering of elements and user interactions such as expanding or collapsing sections. The design is responsive and clean, providing a clear overview of the site's navigation flow.
